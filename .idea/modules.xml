@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone_Book.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone_Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Phone_Book.Problems-Difference_between_two_doubles.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Phone_Book.Problems-Difference_between_two_doubles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Phone_Book.Problems-Difference_between_two_doubles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Phone_Book.Problems-Difference_between_two_doubles.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Phone_Book.Problems-Difference_between_two_doubles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Phone_Book.Problems-Difference_between_two_doubles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Phone_Book.Problems-Distance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Phone_Book.Problems-Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Phone_Book.Problems-Distance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Phone_Book.Problems-Distance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Phone_Book.Problems-Distance.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Phone_Book.Problems-Distance.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Phone_Book.Problems-Evaluate_an_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Phone_Book.Problems-Evaluate_an_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Phone_Book.Problems-Evaluate_an_expression.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Phone_Book.Problems-Evaluate_an_expression.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Phone_Book.Problems-Evaluate_an_expression.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Phone_Book.Problems-Evaluate_an_expression.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition/Phone_Book.Problems-Function_composition.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition/Phone_Book.Problems-Function_composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition/Phone_Book.Problems-Function_composition.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition/Phone_Book.Problems-Function_composition.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition/Phone_Book.Problems-Function_composition.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition/Phone_Book.Problems-Function_composition.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers/Phone_Book.Problems-Sum_of_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers/Phone_Book.Problems-Sum_of_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers/Phone_Book.Problems-Sum_of_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers/Phone_Book.Problems-Sum_of_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers/Phone_Book.Problems-Sum_of_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers/Phone_Book.Problems-Sum_of_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Phone_Book.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Phone_Book.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Phone_Book.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Phone_Book.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Phone_Book.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Phone_Book.util.test.iml" />
+    </modules>
+  </component>
+</project>
